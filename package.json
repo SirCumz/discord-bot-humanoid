@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bot": "node index.js"
+  },
+  "author": "PPPokeHerFace",
+  "license": "MIT",
+  "dependencies": {
+    "discordie": "^0.11.0",
+    "googleapis": "^18.0.0",
+    "lodash": "^4.17.4",
+    "request": "^2.80.0",
+    "youtube-dl": "^1.11.1",
+    "ascii-table": "^0.0.9"
+  }
+}
